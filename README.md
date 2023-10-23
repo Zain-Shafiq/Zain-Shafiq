@@ -8,11 +8,11 @@
 I am a student currently studying T levels, i have high hopes of furthering my education and eventually going into the ai/robotics field. I do website creation and developing with python on the side, with ambitions to learn more 
 
 <h1> Skills </h1>
-I currently know/learning:n<br>
+I currently know/learning: <br>
 Python<br>
-Javascriptn<br>
+Javascript <br>
 Htmln<br>
-Css/Scssn<br>
+Css/Scss <br>
 Reactn<br>
 Bootstrap <br>
 
