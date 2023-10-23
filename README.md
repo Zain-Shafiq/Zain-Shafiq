@@ -11,9 +11,9 @@ I am a student currently studying T levels, i have high hopes of furthering my e
 I currently know/learning: <br>
 Python<br>
 Javascript <br>
-Htmln<br>
+Html <br>
 Css/Scss <br>
-Reactn<br>
+React <br>
 Bootstrap <br>
 
 <h1>Other Websites</h1>
